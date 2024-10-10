@@ -10,7 +10,11 @@ header{background-color: blue;
 .main-content{background-color: yellow;}
 
 .align{text-align: center;}
+
 .underline{text-decoration: none;}
 
 h1,h2,h3,h4,h5,h6{text-decoration: dashed underline;}
+
 .bold-text{font-weight: bold;}
+
+#intro{font-weight: 300;}
