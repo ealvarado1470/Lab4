@@ -5,6 +5,8 @@ header{background-color: blue;
     background-color: lightgray;
     color: black;
 }
-p{color: red;}
+#divp{color: red;}
 .highlight{color: green;}
-.main-conten{background-color: yellow;}
+.main-content{background-color: yellow;}
+
+.align{text-align: center;}
