@@ -1,4 +1,4 @@
-header{background-color: blue; 
+.begin{background-color: blue; 
     color:white}
 
 .container{
@@ -22,3 +22,5 @@ h1,h2,h3,h4,h5,h6{text-decoration: dashed underline;}
 *{font-family: arial,sans-serif;}
 
 .custom-font{font-family: 'Times New Roman',sans-serif;}
+
+.header{text-transform: uppercase;}
