@@ -24,3 +24,5 @@ h1,h2,h3,h4,h5,h6{text-decoration: dashed underline;}
 .custom-font{font-family: 'Times New Roman',sans-serif;}
 
 .header{text-transform: uppercase;}
+
+.capitalized-text{text-transform: capitalize;}
