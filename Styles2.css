@@ -26,3 +26,5 @@
 .visible-element{visibility: visible;}
 
 .invisible-element{visibility: hidden;}
+
+.transparent-box{background-color: blue; opacity: .5;}
