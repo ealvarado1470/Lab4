@@ -18,3 +18,5 @@
 .inline-element{display: inline;}
 
 .block-element{display: block;}
+
+.inlined-block-element{display: inline-block;}
