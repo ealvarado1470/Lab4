@@ -14,3 +14,5 @@
 .margin-text{margin: 30px;}
 
 .custom-margin{margin-top: 20px; margin-bottom: 20px; margin-left: 40px; margin-right: 40px;}
+
+.inline-element{display: inline;}
