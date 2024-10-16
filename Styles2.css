@@ -1,2 +1,4 @@
 .box{height: 200px;
     width: 300px;}
+
+.responsive-box{height: 50%; width: 50%;}
