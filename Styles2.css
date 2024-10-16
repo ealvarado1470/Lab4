@@ -10,3 +10,5 @@
 .border-box{border: 2px solid black;}
 
 .rounded-border{border: 3px dotted red; border-radius: 15px;}
+
+.margin-text{margin: 30px;}
